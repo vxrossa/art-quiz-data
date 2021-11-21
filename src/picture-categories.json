@@ -1,0 +1,64 @@
+{
+  "pictureCats": [
+    {
+      "index": "0",
+      "name": "Раунд 1",
+      "img": "../../assets/picture-categories/portrait.png"
+    },
+    {
+      "index": "1",
+      "name": "Раунд 2",
+      "img": "../../assets/picture-categories/still.png"
+    },
+    {
+      "index": "2",
+      "name": "Раунд 3",
+      "img": "../../assets/picture-categories/landscape.png"
+    },
+    {
+      "index": "3",
+      "name": "Раунд 4",
+      "img": "../../assets/picture-categories/impress.png"
+    },
+    {
+      "index": "4",
+      "name": "Раунд 5",
+      "img": "../../assets/picture-categories/express.png"
+    },
+    {
+      "index": "5",
+      "name": "Раунд 6",
+      "img": "../../assets/picture-categories/avantgarde.png"
+    },
+    {
+      "index": "6",
+      "name": "Раунд 7",
+      "img": "../../assets/picture-categories/renaissance.jpg"
+    },
+    {
+      "index": "7",
+      "name": "Раунд 8",
+      "img": "../../assets/picture-categories/surrealism.jpg"
+    },
+    {
+      "index": "8",
+      "name": "Раунд 9",
+      "img": "../../assets/picture-categories/round.jfif"
+    },
+    {
+      "index": "9",
+      "name": "Раунд 10",
+      "img": "../../assets/picture-categories/kitsch.png"
+    },
+    {
+      "index": "10",
+      "name": "Раунд 11",
+      "img": "../../assets/picture-categories/interior.jpg"
+    },
+    {
+      "index": "11",
+      "name": "Раунд 12",
+      "img": "../../assets/picture-categories/nude.png"
+    }
+  ]
+}

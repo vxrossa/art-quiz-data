@@ -1,0 +1,64 @@
+{
+  "pictureCats": [
+    {
+      "index": "12",
+      "name": "Раунд 1",
+      "img": "../../assets/artist-categories/1.jpg"
+    },
+    {
+      "index": "13",
+      "name": "Раунд 2",
+      "img": "../../assets/artist-categories/2.jpg"
+    },
+    {
+      "index": "14",
+      "name": "Раунд 3",
+      "img": "../../assets/artist-categories/3.jpg"
+    },
+    {
+      "index": "15",
+      "name": "Раунд 4",
+      "img": "../../assets/artist-categories/4.jpg"
+    },
+    {
+      "index": "16",
+      "name": "Раунд 5",
+      "img": "../../assets/artist-categories/5.jpg"
+    },
+    {
+      "index": "17",
+      "name": "Раунд 6",
+      "img": "../../assets/artist-categories/6.jpg"
+    },
+    {
+      "index": "18",
+      "name": "Раунд 7",
+      "img": "../../assets/artist-categories/7.jpg"
+    },
+    {
+      "index": "19",
+      "name": "Раунд 8",
+      "img": "../../assets/artist-categories/8.jpg"
+    },
+    {
+      "index": "20",
+      "name": "Раунд 9",
+      "img": "../../assets/artist-categories/9.jpg"
+    },
+    {
+      "index": "21",
+      "name": "Раунд 10",
+      "img": "../../assets/artist-categories/10.jpg"
+    },
+    {
+      "index": "22",
+      "name": "Раунд 11",
+      "img": "../../assets/artist-categories/11.jpg"
+    },
+    {
+      "index": "23",
+      "name": "Раунд 12",
+      "img": "../../assets/artist-categories/12.webp"
+    }
+  ]
+}
